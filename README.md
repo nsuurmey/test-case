@@ -1,2 +1,3 @@
 # test-case
-another test of git
+another test of git and branch editing
+
